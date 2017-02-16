@@ -1,0 +1,2 @@
+contextPath=/blade.users
+authVerifierProperties=auth.verifier.PortalSessionAuthVerifier.urls.includes=*
